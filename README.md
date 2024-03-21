@@ -26,7 +26,7 @@
 </br>
 
  
-  ![Snake animation](https://github.com/Nsrri/Nsrri/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Nsrri/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
   
 
