@@ -24,11 +24,10 @@
   <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
 </br>
-</br>
+
  
   ![Snake animation](https://github.com/Nsrri/Nsrri/blob/output/github-contribution-grid-snake.svg)
  
-</div>
   
 
 
