@@ -23,6 +23,12 @@
 <img height="40" width="40" align="center" alt="Erica-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
+</br>
+</br>
+ 
+  ![Snake animation](https://github.com/Nsrri/Nsrri/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   
 
 
